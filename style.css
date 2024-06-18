@@ -6,7 +6,7 @@ padding: 0;
 #body-1{
 width: 10;
 min-height: 100vh;
-background: url("Untitled.jpg") no-repeat;
+background: url("Untitled.jpg");
 background-position: center;
 background-size: cover;
 display: flex;
